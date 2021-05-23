@@ -4,7 +4,7 @@
 [![GitHub Releases](https://img.shields.io/github/downloads/Qv2ray/Qv2ray/latest/total?style=flat-square&logo=github)](https://github.com/Qv2ray/Qv2ray/releases)
 [![GitHub All Releases](https://img.shields.io/github/downloads/Qv2ray/Qv2ray/total?label=downloads-total&logo=github&style=flat-square)](https://github.com/Qv2ray/Qv2ray/releases)
 
-使用 Qt 框架的跨平台 v2ray 客户端。支持 Windows, Linux, macOS。
+使用 Qt  框架的跨平台 v2ray 客户端。支持 Windows, Linux, macOS。
 
 ## Availability & Status
 
